@@ -1,0 +1,22 @@
+body {
+    background-color: #0b238c;
+    display: flex;
+
+}
+
+.ver {
+    width: 1400px;
+    text-align: center;
+    color: white;    
+}
+
+.ver h1 {
+    font-size: 55px;
+    margin-bottom: 44px;
+}
+
+.ver p {
+    margin: 0 40px;
+    font-size: 38px;
+    text-align: justify;
+}

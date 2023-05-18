@@ -1,0 +1,28 @@
+body {
+    background-color: #0b238c;
+}
+
+.datos-container {
+    width: 1200px;
+    height: 650px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+
+    color: aliceblue;
+
+    font-size: 33px;
+}
+
+.formulario input {
+    width: 330px;
+    height: 40px;
+    margin: 20px 0px;
+}
