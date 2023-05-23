@@ -145,7 +145,20 @@ body {
   }
 
   .main-container {
-    width: 600px;
+    width: 100%
+
+  }
+
+  .header-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+  }
+
+  .body-container {
+    width: 100%;
   }
 
   .options-container {
@@ -154,6 +167,8 @@ body {
     display: flex;
     flex-direction: row;
     height: 60px;
+    margin: 23px 23px;
+    
   }
 }
 
